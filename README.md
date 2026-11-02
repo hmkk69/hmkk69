@@ -25,10 +25,10 @@ Featuring authentic iOS hardware simulation.
 
 ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmkk69&show_icons=true&hide_border=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmkk69&layout=compact&hide_border=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hmkk69&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=hmkk69&theme=github_dark)
 
 ## Contact
 
 - Telegram: [@vanlopsky](https://t.me/vanlopsky)
+- [Yapin.gg](https://yapin.gg): @canvas 
