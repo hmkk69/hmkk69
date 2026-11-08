@@ -2,7 +2,7 @@
 
 I enjoy building useful things and turning ideas into reality.
 
-## Featured projects
+## Enthusiastic projects
 
 **[TextCove](https://github.com/hmkk69/TextCove)**  
 A distraction-free notepad. Write freely, autosave locally, and back up what matters.
